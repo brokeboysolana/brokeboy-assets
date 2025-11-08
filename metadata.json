@@ -1,0 +1,10 @@
+{
+  "name": "BROKEBOY",
+  "symbol": "BROKE",
+  "description": "BROKEBOY ($BROKE) is a community-driven meme token built on Solana — born from the idea that success can rise from being broke.",
+  "image": "https://raw.githubusercontent.com/brokeboysolana/brokeboy-assets/main/broke.png",
+  "extensions": {
+    "twitter": "https://x.com/brokeboytoken",
+    "website": "https://brokeboy.site"
+  }
+}
