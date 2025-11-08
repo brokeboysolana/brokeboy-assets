@@ -6,5 +6,10 @@
   "extensions": {
     "twitter": "https://x.com/brokeboytoken",
     "website": "https://brokeboy.site"
+  },
+  "tags": ["meme", "community", "solana"],
+  "creator": {
+    "name": "Brokeboy Team",
+    "site": "https://brokeboy.site"
   }
 }
